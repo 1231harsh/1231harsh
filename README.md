@@ -20,8 +20,6 @@ Values & Aspirations 🌱
 
   Honest Creator: My aim is to create authentic work that connects with people. ❤️
 
-  Balanced Life: While I aspire to build a successful career in IT, I also strive to nurture my creative passions. ⚖️
-
 Connect with Me 🤝
 
   https://github.com/1231harsh
