@@ -1,31 +1,26 @@
 Hi there, I'm Harsh! 👋
-
 About Me 🧑‍💻
 
-   I’m a final-year B.Tech student with a passion for blending technology and creativity. While I work towards becoming a proficient software developer, my heart also beats for the arts. Philosophy, history, poetry, literature, films, and storytelling are      my true inspirations. 🌟
+I’m a Computer Science graduate currently pursuing PG-DAC from Sunbeam Institute. I’m focused on becoming a strong backend developer, building scalable applications using Java and Spring Boot.
+
+Alongside technology, I have a deep interest in philosophy, history, literature, and storytelling, which shape how I think and approach problems—with depth and perspective.
 
 Tech Skills 💻
+Languages: Java, JavaScript, C++, Basics of Python
+Frameworks: Spring, Spring Boot, React
+Tools & Technologies: Git, REST APIs, SQL, WebSockets, JWT
+Core Concepts: Data Structures & Algorithms, OOP, DBMS
 
-  Programming Languages: Java, Basics of Python, C, C++, JS
-
-  Web Development: Spring, Spring Boot, React
-
-  Other Skills: Git, REST APIs, SQL
-
-  I’m currently learning advanced Spring Boot and exploring backend development practices. My ultimate goal is to develop robust and scalable applications. 🚀
+I’m currently strengthening my backend development skills and improving my problem-solving ability through consistent DSA practice.
 
 Values & Aspirations 🌱
+Lifelong Learner: Continuously improving through coding and reading
+Problem Solver: Focused on writing efficient and scalable solutions
+Balanced Thinker: Combining technical depth with broader intellectual interests
 
-  Lifelong Learner: I believe in growing every day, whether it’s through coding or diving into a book on philosophy. 📚
-
-  Honest Creator: My aim is to create authentic work that connects with people. ❤️
+My goal is to build reliable backend systems and grow into a well-rounded software developer.
 
 Connect with Me 🤝
-
-  https://github.com/1231harsh
-
-  https://www.linkedin.com/in/harshvardhan-rajchauhan-a0a154275/
-
-  📧 Email: 1206harsh@gmail.com
-
-Let’s connect and build something amazing together! 🌈
+GitHub: https://github.com/1231harsh
+LinkedIn: https://www.linkedin.com/in/harshvardhan-rajchauhan-a0a154275/
+📧 Email: 1206harsh@gmail.com
