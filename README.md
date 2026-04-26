@@ -1,26 +1,32 @@
-Hi there, I'm Harsh! 👋
-About Me 🧑‍💻
+### Hi there, I'm Harsh 👋
 
-I’m a Computer Science graduate currently pursuing PG-DAC from Sunbeam Institute. I’m focused on becoming a strong backend developer, building scalable applications using Java and Spring Boot.
+I'm a backend-focused developer building reliable, scalable systems with **Java + Spring Boot**.
+Currently pursuing **PG-DAC at Sunbeam Institute (CDAC)** after my B.Tech in CSE (IoT).
 
-Alongside technology, I have a deep interest in philosophy, history, literature, and storytelling, which shape how I think and approach problems—with depth and perspective.
+---
 
-Tech Skills 💻
-Languages: Java, JavaScript, C++, Basics of Python
-Frameworks: Spring, Spring Boot, React
-Tools & Technologies: Git, REST APIs, SQL, WebSockets, JWT
-Core Concepts: Data Structures & Algorithms, OOP, DBMS
+#### 🛠️ Tech Stack
+**Languages:** Java, JavaScript, TypeScript, SQL, C/C++  
+**Frameworks:** Spring, Spring Boot, Spring Security, React, Bootstrap  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, Maven, Postman, IntelliJ IDEA, Linux  
+**Concepts:** REST APIs, WebSockets, JWT, OAuth2, OOP, DSA, DBMS, OS
 
-I’m currently strengthening my backend development skills and improving my problem-solving ability through consistent DSA practice.
+---
 
-Values & Aspirations 🌱
-Lifelong Learner: Continuously improving through coding and reading
-Problem Solver: Focused on writing efficient and scalable solutions
-Balanced Thinker: Combining technical depth with broader intellectual interests
+#### 🚀 What I'm working on
+- 🔭 Strengthening backend fundamentals — microservices, system design, JUnit
+- 🌱 Solving DSA on LeetCode (246+ solved, daily streaks)
+- 💡 Building **KeyGloves** — an IoT wearable that replaces keyboards with piezo-sensor gloves
 
-My goal is to build reliable backend systems and grow into a well-rounded software developer.
+---
 
-Connect with Me 🤝
-GitHub: https://github.com/1231harsh
-LinkedIn: https://www.linkedin.com/in/harshvardhan-rajchauhan-a0a154275/
-📧 Email: 1206harsh@gmail.com
+#### 📫 Connect with me
+- LinkedIn: [harshvardhan-rajchauhan](https://www.linkedin.com/in/harshvardhan-rajchauhan-a0a154275/)
+- LeetCode: [1231_harsh](https://leetcode.com/u/1231_harsh/)
+- Email: 1206harsh@gmail.com
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1231harsh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1231harsh&layout=compact&theme=tokyonight)
